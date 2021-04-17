@@ -1,0 +1,86 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="49" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="2" filename="../../../../../../components/libraries/util/app_error_handler_gcc.c" useHWbreakpoint="false"/>
+  <BreakpointListItem trigger="" line="592" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../config/sdk_config.h" useHWbreakpoint="false"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_template_pca10040_s132" radix="16" sizeText="256" addressText="r2"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_template_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_template_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_template_pca10040_s132" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132;Application"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132;Board Definition"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132;Board Support"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132;nRF_Drivers"/>
+  <ProjectSessionItem path="ble_app_template_pca10040_s132;ble_app_template_pca10040_s132;nRF_Libraries"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="FICR/CODEPAGESIZE;FICR/CODESIZE;FICR/DEVICEID[0];FICR/DEVICEID[1];FICR/ER[0];FICR/ER[1];FICR/ER[2];FICR/ER[3];FICR/IR[0];FICR/IR[1];FICR/IR[2];FICR/IR[3];FICR/DEVICEADDRTYPE;FICR/DEVICEADDR[0];FICR/DEVICEADDR[1];FICR/INFO.PART;FICR/INFO.VARIANT;FICR/INFO.PACKAGE;FICR/INFO.RAM;FICR/INFO.FLASH;FICR/INFO.UNUSED0[0];FICR/INFO.UNUSED0[1];FICR/INFO.UNUSED0[2];FICR/TEMP.A0;FICR/TEMP.A1;FICR/TEMP.A2;FICR/TEMP.A3;FICR/TEMP.A4;FICR/TEMP.A5;FICR/TEMP.B0;FICR/TEMP.B1;FICR/TEMP.B2;FICR/TEMP.B3;FICR/TEMP.B4;FICR/TEMP.B5;FICR/TEMP.T0;FICR/TEMP.T1;FICR/TEMP.T2;FICR/TEMP.T3;FICR/TEMP.T4;FICR/NFC.TAGHEADER0;FICR/NFC.TAGHEADER1;FICR/NFC.TAGHEADER2;FICR/NFC.TAGHEADER3;UICR/UNUSED0;UICR/UNUSED1;UICR/UNUSED2;UICR/UNUSED3;UICR/NRFFW[0];UICR/NRFFW[1];UICR/NRFFW[2];UICR/NRFFW[3];UICR/NRFFW[4];UICR/NRFFW[5];UICR/NRFFW[6];UICR/NRFFW[7];UICR/NRFFW[8];UICR/NRFFW[9];UICR/NRFFW[10];UICR/NRFFW[11];UICR/NRFFW[12];UICR/NRFFW[13];UICR/NRFFW[14];UICR/NRFHW[0];UICR/NRFHW[1];UICR/NRFHW[2];UICR/NRFHW[3];UICR/NRFHW[4];UICR/NRFHW[5];UICR/NRFHW[6];UICR/NRFHW[7];UICR/NRFHW[8];UICR/NRFHW[9];UICR/NRFHW[10];UICR/NRFHW[11];UICR/CUSTOMER[0];UICR/CUSTOMER[1];UICR/CUSTOMER[2];UICR/CUSTOMER[3];UICR/CUSTOMER[4];UICR/CUSTOMER[5];UICR/CUSTOMER[6];UICR/CUSTOMER[7];UICR/CUSTOMER[8];UICR/CUSTOMER[9];UICR/CUSTOMER[10];UICR/CUSTOMER[11];UICR/CUSTOMER[12];UICR/CUSTOMER[13];UICR/CUSTOMER[14];UICR/CUSTOMER[15];UICR/CUSTOMER[16];UICR/CUSTOMER[17];UICR/CUSTOMER[18];UICR/CUSTOMER[19];UICR/CUSTOMER[20];UICR/CUSTOMER[21];UICR/CUSTOMER[22];UICR/CUSTOMER[23];UICR/CUSTOMER[24];UICR/CUSTOMER[25];UICR/CUSTOMER[26];UICR/CUSTOMER[27];UICR/CUSTOMER[28];UICR/CUSTOMER[29];UICR/CUSTOMER[30];UICR/CUSTOMER[31];UICR/PSELRESET[0];UICR/PSELRESET[1];UICR/APPROTECT;UICR/NFCPINS;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal;CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr" binaryNodes="" asciiNodes="" openNodes="FICR;FICR/CODEPAGESIZE;FICR/CODESIZE;UICR;CPU;CPU - Current Context" name="ble_app_template_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_template_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_template_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_template_pca10040_s132" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never">
+   <Watchpoint expression="attr_char_value" name="attr_char_value" radix="16" linenumber="545" filename="../../../ble_custom.c"/>
+   <Watchpoint expression="cccd_md" name="cccd_md" radix="16" linenumber="507" filename="../../../ble_custom.c"/>
+   <Watchpoint expression="err_code" name="err_code" radix="16" linenumber="1424" filename="../../../main.c"/>
+   <Watchpoint expression="error_code" name="error_code" radix="-1" linenumber="64" filename="../../../../../../components/libraries/util/app_error.c"/>
+   <Watchpoint expression="info" name="info" radix="16" linenumber="56" filename="../../../../../../components/libraries/util/app_error_weak.c"/>
+   <Watchpoint expression="p_ble_evt" name="p_ble_evt" radix="-1" linenumber="447" filename="../../../ble_custom.c"/>
+   <Watchpoint expression="p_cus" name="p_cus" radix="16" linenumber="544" filename="../../../ble_custom.c"/>
+   <Watchpoint expression="p_evt_write" name="p_evt_write" radix="16" linenumber="378" filename="../../../ble_custom.c"/>
+   <Watchpoint expression="recBuffer" name="recBuffer" radix="16" linenumber="405" filename="../../../ble_custom.c"/>
+   <Watchpoint expression="ptr" name="ptr" radix="-1" linenumber="944" filename="../../../app.c"/>
+   <Watchpoint expression="timeDate" name="timeDate" radix="-1" linenumber="962" filename="../../../app.c"/>
+   <Watchpoint expression="CODEPAGESIZE" name="CODEPAGESIZE" radix="16" linenumber="0" filename="../ses"/>
+   <Watchpoint expression="readTaskObj" name="readTaskObj" radix="-1" linenumber="1950" filename="../../../main.c"/>
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="570" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../app.c" selected="0" top="544" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="21" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../app.h" selected="1" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="646" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="630" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="568" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/bsp/bsp.c" selected="0" top="543" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="53" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/boards/pca10040.h" selected="0" top="44" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="93" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/pwm/app_pwm.h" selected="0" top="82" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="ble_app_template_pca10040_s132" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Projects/BLE_Firmware_Upgrade/BLE_External/DeviceDownload/nRF5SDK160098a08e2/components/libraries/bootloader/dfu" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
